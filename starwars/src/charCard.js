@@ -16,7 +16,7 @@ export default function CharCard(props){
     return(
         <Card>
             <h3>{props.nameProp}</h3>
-            <p>eye color: {props.eyeProp}</p>
+            <p classNAme="eye">eye color: {props.eyeProp}</p>
             <p>skin color: {props.skinProp}</p>
         </Card>
     )
