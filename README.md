@@ -26,20 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-ReactJS is  library for  building applications
-React solves the problem of providing a smooth experience for our users.
+          ReactJS is  library for  building applications
+          React solves the problem of providing a smooth experience for our users.
 
 - [ ] What does it mean to _think_ in react?
 
-to me it means to always keep in mind hat the state is and how i am manipulating it.
+                to me it means to always keep in mind hat the state is and how i am manipulating it.
 
 - [ ] Describe state.
-state is a value you give and can change whenever.
+
+            state is a value you give and can change whenever.
+            
 - [ ] Describe props.
-props is short for properties but you can use props to pass data tot he components.
+
+            props is short for properties but you can use props to pass data tot he components.
+            
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
 
-side effects are functions that run in the background, you can use side effects to set the state or set props
+            side effects are functions that run in the background, you can use side effects to set the state or set props
 
 ## Project Set Up
 
