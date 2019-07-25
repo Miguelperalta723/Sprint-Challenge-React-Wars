@@ -5,4 +5,15 @@
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
+.Cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 40px;
+}
+
+.Card {
+  background-image: url('./images/stars.jpg')
+}
 /* write your parent styles in here for your App.js */
